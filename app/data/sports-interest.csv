@@ -1,0 +1,552 @@
+coniId,enParent,enChild,itParent,itChild
+AA001,Aikido,,Aikido,
+AB001,Mountain climbing,,Alpinismo,
+AB002,Mountain climbing,Skyrunning,Alpinismo,Skyrunning
+,Sports Hunting weapons,,Armi Sportive da caccia,
+AC001,Sports Hunting weapons,Archery rifles barrel smoothbore and ball load,Armi Sportive da caccia,Tiro con fucili con canna ad anima liscia e caricamento a palla
+AC002,Sports Hunting weapons,Archery hunting bow,Armi Sportive da caccia,Tiro con arco da caccia
+AC003,Sports Hunting weapons,Rifle shooting with rifled barrel rifle hunting may not have a perspective,Armi Sportive da caccia,Tiro di campagna con carabina a canna rigata da caccia munita o meno di ottica
+AC004,Sports Hunting weapons,Shooting plate with rifles with smooth-bore barrel in hunting path,Armi Sportive da caccia,Tiro piattello con fucili con canna ad anima liscia in percorso di caccia
+,Sport Climbing,,Arrampicata Sportiva,
+AD001,Sport Climbing,"Paraclimb (Speed, Lead, Boulder)",Arrampicata Sportiva,Paraclimb (Speed; Lead; Boulder)
+AD002,Sport Climbing,"Rock Climbing (Boulder, Lead)",Arrampicata Sportiva,Arrampicata su roccia (Boulder; Lead)
+AD003,Sport Climbing,"Climbing on artificial structures (Boulder, Speed, Lead)",Arrampicata Sportiva,Arrampicata su strutture artificiali (Boulder; Speed; Lead)
+,Martial arts,,Arti Marziali,
+AE001,Martial arts,Capoeira,Arti Marziali,Capoeira
+AE005,Martial arts,S'Istrumpa,Arti Marziali,S'istrumpa
+AF001,Athletics,,Atletica Leggera,
+AF002,Athletics,Cross country,Atletica Leggera,Corsa campestre
+AF003,Athletics,Mountain running,Atletica Leggera,Corsa in montagna
+AF004,Athletics,Road Race,Atletica Leggera,Corsa su strada
+AF005,Athletics,Indoor Racing,Atletica Leggera,Corsa Indoor
+AF006,Athletics,Nordic walking,Atletica Leggera,Nordic walking
+AF006,Athletics,Fit walking,Atletica Leggera,Fit walking
+AF007,Athletics,Between,Atletica Leggera,Trail
+,Athletics,Marathon,Atletica Leggera,Maratona
+AF008,Athletics,Ultramarathon,Atletica Leggera,Ultramaratona
+AG005,Underwater Activities,,Attività Subacquee,
+AG005,Underwater Activities,Finswimming,Attività Subacquee,Nuoto Pinnato
+AG005,Underwater Activities,Basketball with fins (Finswimming Basketball),Attività Subacquee,Basket con le pinne (Finswimming Basket)
+AG005,Underwater Activities,Fitness in the water with their fins,Attività Subacquee,Fitness in acqua con le pinne
+AG005,Underwater Activities,underwater photography,Attività Subacquee,Fotografia subacquea
+AG005,Underwater Activities,underwater Hockey,Attività Subacquee,Hockey subacqueo
+AG005,Underwater Activities,Diving in apnea,Attività Subacquee,Immersione in apnea
+AG005,Underwater Activities,underwater Orientation,Attività Subacquee,Orientamento subacqueo
+AG005,Underwater Activities,Water polo with fins (Finswimming Ball),Attività Subacquee,Pallanuoto con le pinne (Finswimming Ball)
+AG005,Underwater Activities,Spearfishing,Attività Subacquee,Pesca in apnea
+AG005,Underwater Activities,underwater Rugby,Attività Subacquee,Rugby subacqueo
+AG005,Underwater Activities,Underwater Safari - fotosub,Attività Subacquee,Safari subacqueo - fotosub
+AG005,Underwater Activities,Sport Diving,Attività Subacquee,Sport Diving
+AG005,Underwater Activities,Shooting underwater target,Attività Subacquee,Tiro al bersaglio subacqueo
+AG005,Underwater Activities,underwater Video,Attività Subacquee,Video subacqueo
+AG010,Underwater Activities,Immersion with breathing apparatus in confined and open water waters,Attività Subacquee,Immersione con autorespiratori in acque confinate ed acque libere
+AG010,Underwater Activities,Diving in apnea with or without equipment in confined and open water waters,Attività Subacquee,Immersione in apnea con e senza attrezzatura in acque confinate ed acque libere
+AG010,Underwater Activities,Activities lifesaving and rescue diver,Attività Subacquee,Attività di salvamento e soccorso subacqueo
+,motoring,,Automobilismo,
+AH001,motoring,Rally,Automobilismo,Rally
+AH005,motoring,historic cars,Automobilismo,Auto storiche
+AH006,motoring,Motoring: speed on land or ice,Automobilismo,Automobilismo: velocità su terra o ghiaccio
+AH006,motoring,Motoring: slalom,Automobilismo,Automobilismo: slalom
+AH006,motoring,Motoring: challenge,Automobilismo,Automobilismo: challenge
+AH006,motoring,Motoring: Acceleration,Automobilismo,Automobilismo: accelerazione
+AH006,motoring,Motoring: Drifting,Automobilismo,Automobilismo: drifting
+AH006,motoring,Motoring: Acceleration,Automobilismo,Automobilismo: accelerazione
+AH007,motoring,"Motoring: speed (uphill, in circuit)",Automobilismo,"Automobilismo: velocità (in salita, in circuito)"
+AH008,motoring,Motoring: Alternative energy,Automobilismo,Automobilismo: Energie alternative
+AH009,motoring,Off road,Automobilismo,Fuoristrada
+AH010,motoring,Karting,Automobilismo,Karting
+AI001,Badminton,,Badminton,
+AJ001,Bandy,,Bandy,
+AK001,Baseball - Softball,,Baseball - Softball,
+AK002,Baseball - Softball,Baseball for the Blind,Baseball - Softball,Baseball per ciechi
+AL001,Biathlon,,Biathlon,
+,Sports Billiards,,Biliardo Sportivo,
+AM001,Sports Billiards,Flasks,Biliardo Sportivo,Boccette
+AM002,Sports Billiards,Carambola,Biliardo Sportivo,Carambola
+AM003,Sports Billiards,Pool / Snooker,Biliardo Sportivo,Pool/Snooker
+AM004,Sports Billiards,cue,Biliardo Sportivo,Stecca
+,Bob,,Bob,
+AN001,Bob,Bob Track,Bob,Bob Pista
+,Bowls,,Bocce,
+AO001,Bowls,Beach bowling,Bocce,Beach bocce
+AO002,Bowls,Bowls for Disabled,Bocce,Bocce per disabili
+AO003,Bowls,Bowls on the grass,Bocce,Bocce sull'erba
+AO004,Bowls,pétanque,Bocce,Pétanque
+AO005,Bowls,Raffa,Bocce,Raffa
+AO006,Bowls,Flight (bowls),Bocce,Volo (bocce)
+AP001,Body building,Body building,Body building,Body building
+AQ001,Bowling,Bowling,Bowling,Bowling
+AR001,Bridge,Bridge,Bridge,Bridge
+,Football,,Calcio,
+AS001,Football,Football 11,Calcio,Calcio a 11
+AS002,Football,Football 5 (Futsal),Calcio,Calcio a 5 (Futsal)
+AS003,Football,Football 7,Calcio,Calcio a 7
+AS004,Football,Football 8,Calcio,Calcio a 8
+AS005,Football,Beach Soccer,Calcio,Beach Soccer
+,Canoe,,Canoa,
+AT001,Canoe,Canoe freestyle,Canoa,Canoa freestyle
+AT002,Canoe,Canoe marathon,Canoa,Canoa marathon
+AT003,Canoe,Canoe polo,Canoa,Canoa polo
+AT004,Canoe,Dragon Boat,Canoa,Dragon Boat
+AT005,Canoe,Ocean racing,Canoa,Ocean racing
+AT006,Canoe,Paracanoa,Canoa,Paracanoa
+AT007,Canoe,Canoe Slalom,Canoa,Canoa Slalom
+AT008,Canoe,Canoe Sprint,Canoa,Canoa Sprint
+AT009,Canoe,Wildwater Canoeing (Descent),Canoa,Canoa Wildwater (Discesa)
+AU001,Boating,,Canottaggio,
+AU002,Boating,Coastal rowing,Canottaggio,Coastal rowing
+AU003,Boating,Indoor rowing,Canottaggio,Indoor rowing
+AU004,Boating,Para-rowing,Canottaggio,Para-rowing
+AV001,Rowing Fixed Seat,,Canottaggio Sedile Fisso,
+AV002,Rowing Fixed Seat,Rowing Standing,Canottaggio Sedile Fisso,Voga in Piedi
+AW001,Cheerleading,,Cheerleading,
+,Cycling,,Ciclismo,
+AX001,Cycling,bMX,Ciclismo,Bmx
+AX003,Cycling,Paralympic Cycling,Ciclismo,Ciclismo paralimpico
+AX003,Cycling,Paralympic Cycling - Road,Ciclismo,Ciclismo paralimpico - Strada
+AX003,Cycling,Paralympic Cycling - Track,Ciclismo,Ciclismo paralimpico - Pista
+AX003,Cycling,Paralympic Cycling - Tandem,Ciclismo,Ciclismo paralimpico - Tandem
+AX003,Cycling,Paralympic Cycling - Tricycle,Ciclismo,Ciclismo paralimpico - Triciclo
+AX003,Cycling,Paralympic Cycling - Handbike,Ciclismo,Ciclismo paralimpico - Handbike
+AX004,Cycling,Track Cycling,Ciclismo,Ciclismo su pista
+AX005,Cycling,Road Cycling,Ciclismo,Ciclismo su strada
+AX006,Cycling,Cycling Trials,Ciclismo,Ciclismo Trials
+AX007,Cycling,Cycle-cross,Ciclismo,Ciclo-cross
+AX008,Cycling,Mountain biking,Ciclismo,Mountain bike
+AX009,Cycling,BMX freestyle,Ciclismo,BMX free style
+,Cycling,Indoor Cycling,Ciclismo,Indoor Cycling
+AX011,Cycling,Cycling for All and Master (competitive amateur cycling activities),Ciclismo,Cycling for All e Master (attività cicloamatoriale competitiva)
+AX012,Cycling,Cycling,Ciclismo,Cicloturismo
+AX013,Cycling,experimental Cycling,Ciclismo,Ciclismo sperimentale
+AX013,Cycling,Cycling amateur,Ciclismo,Ciclismo amatoriale
+AX013,Cycling,Amateur Cycling: Cycling Stationary,Ciclismo,Ciclismo amatoriale: Ciclismo Stazionario
+AX013,Cycling,Amateur Cycling: E-bike,Ciclismo,Ciclismo amatoriale: E-bike
+AX013,Cycling,Amateur Cycling: Fixed Shooting,Ciclismo,Ciclismo amatoriale: Scatto Fisso
+AX013,Cycling,Amateur Cycling: Fat-bike,Ciclismo,Ciclismo amatoriale: Fat- bike
+,Kennel,,Cinofilia,
+AY001,Kennel,Sport activity of canine,Cinofilia,Attività sportiva cinotecnica
+,Cricket,Cricket,Cricket,Cricket
+AZ001,Cricket,Cricket (traditional ball),Cricket,Cricket (palla tradizionale)
+AZ002,Cricket,Soft Cricket (soft ball),Cricket,Soft Cricket (palla morbida)
+BA001,Timing,,Cronometraggio,
+,Lady,,Dama,
+BB001,Lady,"Dama (Boxes 64, 100, 144)",Dama,"Dama (caselle 64, 100, 144)"
+BB002,Lady,Dama (English version),Dama,Dama (variante inglese)
+BB003,Lady,Dama (international version),Dama,Dama (variante internazionale)
+BB004,Lady,Checkers (Italian variant),Dama,Dama (variante italiana)
+BB005,Lady,Checkers (problem chess variant),Dama,Dama (variante problemistica)
+,Dance Sport,,Danza Sportiva,
+BC001,Dance Sport,Dance Sport Paralympic,Danza Sportiva,Danza Sportiva paralimpica
+BC002,Dance Sport,Modern and Contemporary Dance,Danza Sportiva,Danza Moderna e Contemporanea
+BC002,Dance Sport,Dance Time Period: Modern Jazz,Danza Sportiva,Danza Moderna e Contemporanea: Modern Jazz
+BC002,Dance Sport,Modern and Contemporary Dance: Lyrical Jazz,Danza Sportiva,Danza Moderna e Contemporanea: Lyrical Jazz
+BC002,Dance Sport,Dance Time Period: Graham,Danza Sportiva,Danza Moderna e Contemporanea: Graham
+BC002,Dance Sport,Dance Time Period: Cunningham,Danza Sportiva,Danza Moderna e Contemporanea: Cunningam
+BC002,Dance Sport,Modern and Contemporary Dance: Limon and create derivatives.,Danza Sportiva,Danza Moderna e Contemporanea: Limon e generi derivati.
+BC003,Dance Sport,Classic dance,Danza Sportiva,Danza Classica
+BC003,Dance Sport,Classical Dance: Ballet Techniques,Danza Sportiva,Danza Classica: Tecniche di Balletto
+BC003,Dance Sport,Classical Dance: Variations Free,Danza Sportiva,Danza Classica: Variazioni Libere
+BC003,Dance Sport,Classical Ballet: Pas de Deux,Danza Sportiva,Danza Classica: Pas de Deux
+BC003,Dance Sport,Classical Dance: Classical Repertoire,Danza Sportiva,Danza Classica: Repertorio Classico
+BC004,Dance Sport,Choreographic Dance,Danza Sportiva,Danza Coreografica
+BC004,Dance Sport,Choreographic Dance: Ethnic Dances,Danza Sportiva,Danza Coreografica: Danze Etniche
+BC004,Dance Sport,Choreographic Dance: Popular and Character,Danza Sportiva,Danza Coreografica: Popolari e di Carattere
+BC004,Dance Sport,Choreographic Dance: Tap Dance,Danza Sportiva,Danza Coreografica: Tap Dance
+BC004,Dance Sport,Choreographic Dance: Twist,Danza Sportiva,Danza Coreografica: Twist
+BC004,Dance Sport,Choreographic Dance: Charleston,Danza Sportiva,Danza Coreografica: Charleston
+BC004,Dance Sport,Choreographic Dance: Belly Dance and various traditional dances,Danza Sportiva,Danza Coreografica: Belly Dance e danze tradizionali varie
+BC005,Dance Sport,dance Freestyle,Danza Sportiva,Danze Freestyle
+BC005,Dance Sport,Freestyle Dance: Dance Synchro,Danza Sportiva,Danze Freestyle: Synchro Dance
+BC005,Dance Sport,Freestyle Dance: Choreographic Dance,Danza Sportiva,Danze Freestyle: Choreographic Dance
+BC005,Dance Sport,Freestyle Dance: Dance Show,Danza Sportiva,Danze Freestyle: Show Dance
+BC005,Dance Sport,Freestyle Dance: Disco Dance,Danza Sportiva,Danze Freestyle: Disco Dance
+BC006,Dance Sport,Caribbean Dances,Danza Sportiva,Danze Caraibiche
+BC006,Dance Sport,Caribbean Dances: Salsa,Danza Sportiva,Danze Caraibiche: Salsa
+BC006,Dance Sport,Caribbean Dances: Mambo,Danza Sportiva,Danze Caraibiche: Mambo
+BC006,Dance Sport,Caribbean dances: Merengue,Danza Sportiva,Danze Caraibiche: Merengue
+BC006,Dance Sport,Caribbean dances: Bachata,Danza Sportiva,Danze Caraibiche: Bachata
+BC006,Dance Sport,Caribbean Dances: Combined,Danza Sportiva,Danze Caraibiche: Combinata
+BC006,Dance Sport,Caribbean Dances: Rueda,Danza Sportiva,Danze Caraibiche: Rueda
+BC006,Dance Sport,Argentine Dances,Danza Sportiva,Danze Argentine
+BC006,Dance Sport,Argentine Dances: Tango,Danza Sportiva,Danze Argentine: Tango
+BC006,Dance Sport,Argentine Dances: Vals,Danza Sportiva,Danze Argentine: Vals
+BC006,Dance Sport,Argentine Dances: Milonga,Danza Sportiva,Danze Argentine: Milonga
+BC006,Dance Sport,Dances Freestyle: Hustle,Danza Sportiva,Danze Freestyle: Hustle
+BC006,Dance Sport,Dances Freestyle: Show Couples and Formations,Danza Sportiva,Danze Freestyle: Show Coppie e Formazioni
+BC007,Dance Sport,Dances Jazz,Danza Sportiva,Danze Jazz
+BC007,Dance Sport,Jazz Dances: Rock'n Roli,Danza Sportiva,Danze Jazz: Rock'n RolI
+BC007,Dance Sport,Jazz Dances: Acrobatic Rock,Danza Sportiva,Danze Jazz: Rock Acrobatico
+BC007,Dance Sport,Jazz Dance: Boogie Woogie,Danza Sportiva,Danze Jazz: Boogie Woogie
+BC007,Dance Sport,Jazz Dance: Swing Dance,Danza Sportiva,Danze Jazz: Swing Dance
+BC007,Dance Sport,Jazz Dance: Lindy Hop,Danza Sportiva,Danze Jazz: Lindy Hop
+BC007,Dance Sport,Jazz Dances: Mixing Blues,Danza Sportiva,Danze Jazz: Mixing Blues
+BC007,Dance Sport,Jazz Dances: Combined,Danza Sportiva,Danze Jazz: Combinata
+BC007,Dance Sport,Jazz Dances: Show Couples and Formations,Danza Sportiva,Danze Jazz: Show Coppie e Formazioni
+BC008,Dance Sport,Standard and Latin dances Dances,Danza Sportiva,Danze Standard e danze Latine
+BC008,Dance Sport,Standard Dance and Latin dances: English waltz,Danza Sportiva,Danze Standard e danze Latine: Valzer Inglese
+BC008,Dance Sport,Standard Dance and Latin dances: Tango,Danza Sportiva,Danze Standard e danze Latine: Tango
+BC008,Dance Sport,Standard Dance and Latin dances: Viennese Waltz,Danza Sportiva,Danze Standard e danze Latine: Valzer Viennese
+BC008,Dance Sport,Standard Dance and Latin dances: Slow Foxtrot,Danza Sportiva,Danze Standard e danze Latine: Slow Foxtrot
+BC008,Dance Sport,Standard Dance and Latin dances: Quick Step,Danza Sportiva,Danze Standard e danze Latine: Quick Step
+BC008,Dance Sport,Standard Dance and Latin dances: Samba,Danza Sportiva,Danze Standard e danze Latine: Samba
+BC008,Dance Sport,Standard Dance and Latin dances: Cha Cha Cha,Danza Sportiva,Danze Standard e danze Latine: Cha Cha Cha
+BC008,Dance Sport,Standard Dance and Latin dances: Rumba,Danza Sportiva,Danze Standard e danze Latine: Rumba
+BC008,Dance Sport,Standard Dance and Latin dances: Paso Doble,Danza Sportiva,Danze Standard e danze Latine: Paso Doble
+BC008,Dance Sport,Standard Dance and Latin dances: Jive,Danza Sportiva,Danze Standard e danze Latine: Jive
+BC008,Dance Sport,Standard Dance and Latin dances: Combined,Danza Sportiva,Danze Standard e danze Latine: Combinata
+BC008,Dance Sport,Standard Dance and Latin dances: Show Couples and Formations,Danza Sportiva,Danze Standard e danze Latine: Show Coppie e Formazioni
+BC009,Dance Sport,Unified and Sala Liscio,Danza Sportiva,Liscio Unificato e Sala
+BC009,Dance Sport,Smooth and Unified Room: Mazurka,Danza Sportiva,Liscio Unificato e Sala: Mazurka
+BC009,Dance Sport,Smooth and Unified Room: Viennese Waltz,Danza Sportiva,Liscio Unificato e Sala: Valzer Viennese
+BC009,Dance Sport,Unified Smooth and Lounge: Polka,Danza Sportiva,Liscio Unificato e Sala: Polka
+BC009,Dance Sport,Smooth and Unified Room: Slow Waltz,Danza Sportiva,Liscio Unificato e Sala: Valzer Lento
+BC009,Dance Sport,Smooth and Unified Room: Tango,Danza Sportiva,Liscio Unificato e Sala: Tango
+BC009,Dance Sport,Smooth and Unified Room: Foxtrot,Danza Sportiva,Liscio Unificato e Sala: Foxtrot
+BC009,Dance Sport,Smooth and Unified Room: Combined,Danza Sportiva,Liscio Unificato e Sala: Combinata
+BC009,Dance Sport,Smooth and Unified Room: Couples and Formations Show,Danza Sportiva,Liscio Unificato e Sala: Show Coppie e Formazioni
+BC010,Dance Sport,"Regional Dances, Folk and Traditional smooth",Danza Sportiva,"Danze Regionali, Folk e liscio tradizionale"
+BC010,Dance Sport,"Regional Dances, Folk and Traditional Smooth: Mazurka",Danza Sportiva,"Danze Regionali, Folk e liscio tradizionale: Mazurka"
+BC010,Dance Sport,"Regional Dances, Folk and Traditional Smooth: Waltz",Danza Sportiva,"Danze Regionali, Folk e liscio tradizionale: Valzer"
+BC010,Dance Sport,"Regional Dances, Folk and Traditional Smooth: polka and other traditional dances",Danza Sportiva,"Danze Regionali, Folk e liscio tradizionale: Polka e altri balli tradizionali"
+BC011,Dance Sport,Street dance and urban dance,Danza Sportiva,Street dance e urban dance
+BC011,Dance Sport,Street dance and urban dance: Hip Hop,Danza Sportiva,Street dance e urban dance: Hip Hop
+BC011,Dance Sport,Street dance and urban dance: Break Dance,Danza Sportiva,Street dance e urban dance: Break Dance
+BC011,Dance Sport,Street dance and urban dance: Electric Boogie,Danza Sportiva,Street dance e urban dance: Electric Boogie
+BC011,Dance Sport,Street dance and urban dance: Funk,Danza Sportiva,Street dance e urban dance: Funk
+BC011,Dance Sport,Street dance and urban dance: Hype,Danza Sportiva,Street dance e urban dance: Hype
+BC011,Dance Sport,Street dance and urban dance: Contamination and derivatives styles,Danza Sportiva,Street dance e urban dance: Contaminazioni e stili derivati
+BD001,Fistball,,Fistball,
+BE001,Fliying Disc,,Fliying Disc,
+BF001,Floorball,,Floorball,
+,American Football,,Football Americano,
+BG001,American Football,American Football: Beach,Football Americano,Football Americano: Beach
+BG002,American Football,American Football: Beach Flag,Football Americano,Football Americano: Beach Flag
+BG003,American Football,American Football: Flag,Football Americano,Football Americano: Flag
+BG004,American Football,American Football: Takle,Football Americano,Football Americano: Takle
+,Darts,,Freccette,
+BH001,Darts,Darts Soft Dart,Freccette,Freccette Soft Dart
+BH002,Darts,Darts Steel Dart,Freccette,Freccette Steel Dart
+BI001,Gym,,Ginnastica,
+BI002,Gym,Acrobatic Gymnastics,Ginnastica,Ginnastica Acrobatica
+BI003,Gym,Aerobics Gymnastics,Ginnastica,Ginnastica Aerobica
+BI004,Gym,Artistic Gymnastics,Ginnastica,Ginnastica Artistica
+BI005,Gym,Gymnastics for All,Ginnastica,Ginnastica per Tutti
+BI006,Gym,Rhythmic gymnastics,Ginnastica,Ginnastica Ritmica
+BI007,Gym,Trampoline,Ginnastica,Trampolino Elastico
+BI008,Gym,Parkour,Ginnastica,Parkour
+,Traditional Games and Sports,,Giochi e Sport Tradizionali,
+BJ001,Traditional Games and Sports,Skittles,Giochi e Sport Tradizionali,Birilli
+BJ002,Traditional Games and Sports,Boccia road,Giochi e Sport Tradizionali,Boccia su strada
+BJ003,Traditional Games and Sports,Fiolet,Giochi e Sport Tradizionali,Fiolet
+BJ004,Traditional Games and Sports,Horse Shoe,Giochi e Sport Tradizionali,Horse Shoe
+BJ005,Traditional Games and Sports,Cheese Launch,Giochi e Sport Tradizionali,Lancio del formaggio
+BJ006,Traditional Games and Sports,the small roller Launch,Giochi e Sport Tradizionali,Lancio del rulletto
+BJ007,Traditional Games and Sports,Launch of ruzzolone,Giochi e Sport Tradizionali,Lancio del ruzzolone
+BJ008,Traditional Games and Sports,ruzzola Launch,Giochi e Sport Tradizionali,Lancio della ruzzola
+BJ009,Traditional Games and Sports,Lippa,Giochi e Sport Tradizionali,Lippa
+BJ010,Traditional Games and Sports,Morra,Giochi e Sport Tradizionali,Morra
+BJ011,Traditional Games and Sports,Tile - Palet,Giochi e Sport Tradizionali,Piastrella - Palet
+BJ012,Traditional Games and Sports,rebatta,Giochi e Sport Tradizionali,Rebatta
+BJ013,Traditional Games and Sports,Shot with Crossbow,Giochi e Sport Tradizionali,Tiro con la Balestra
+BJ014,Traditional Games and Sports,Spinning top,Giochi e Sport Tradizionali,Trottola
+BJ015,Traditional Games and Sports,Tsan,Giochi e Sport Tradizionali,Tsan
+BJ016,Traditional Games and Sports,Calcio Storico Fiorentino,Giochi e Sport Tradizionali,Calcio Storico Fiorentino
+BJ017,Traditional Games and Sports,Shoot with Slingshot,Giochi e Sport Tradizionali,Tiro con la Fionda
+BK001,Go,,Go,
+BL001,Golf,,Golf,
+BL002,Golf,Golf Paralympic,Golf,Golf paralimpico
+BL003,Golf,Beach Golf,Golf,Beach Golf
+BM001,Hockey,,Hockey,
+BM002,Hockey,Indoor Hockey,Hockey,Hockey Indoor
+BM003,Hockey,Hockey Paralympic,Hockey,Hockey paralimpico
+BM004,Hockey,Beach Hockey,Hockey,Beach Hockey
+BN001,Judo,,Judo,
+BO001,Ju Jitsu,,Ju-Jitsu,
+BP001,Karate,,Karate,
+BQ001,Kendo,,Kendo,
+BR001,Kickboxing,,Kickboxing,
+BR001,Kickboxing,Aerokickboxing,Kickboxing,Aerokickboxing
+BR002,Kickboxing,Full Contact,Kickboxing,Full Contact
+BR003,Kickboxing,K-1 Rules,Kickboxing,K-1 Rules
+BR004,Kickboxing,Kick Light,Kickboxing,Kick Light
+BR005,Kickboxing,Light Contact,Kickboxing,Light Contact
+BR006,Kickboxing,low Kick,Kickboxing,Low Kick
+BR007,Kickboxing,Musical Forms,Kickboxing,Musical Forms
+BR008,Kickboxing,Point Fighting,Kickboxing,Point Fighting
+BS001,Korfball,,Korfball,
+BT001,Lacrosse,,Lacrosse,
+,fight,,Lotta,
+BU001,fight,greek-Roman Wrestling,Lotta,Lotta greco-romana
+BU002,fight,Freestyle wrestling,Lotta,Lotta libera
+BU003,fight,Grappling,Lotta,Grappling
+BU004,fight,Amateur pankration,Lotta,Pancrazio Athlima
+BW001,Mini-golf,,Minigolf,
+,motorcycling,,Motociclismo,
+BX001,motorcycling,Enduro,Motociclismo,Enduro
+BX002,motorcycling,Motocross,Motociclismo,Motocross
+BX003,motorcycling,Motorally,Motociclismo,Motorally
+BX004,motorcycling,Snowmobiles (Snowcross),Motociclismo,Motoslitte (Snowcross)
+BX005,motorcycling,Motorcycle Quad,Motociclismo,Motociclismo: Quad
+BX006,motorcycling,Speedway (Track Racing),Motociclismo,Speedway (Track Racing)
+BX007,motorcycling,Supermoto,Motociclismo,Supermoto
+BX008,motorcycling,Motorcycle Racing: Trial,Motociclismo,Motociclismo: Trial
+BX009,motorcycling,Motorcycling: Speed ​​(Road Racing),Motociclismo,Motociclismo: Velocità (Road Racing)
+BX010,motorcycling,Mototurismo,Motociclismo,Mototurismo
+BX011,motorcycling,Vintage motorcycles,Motociclismo,Moto d'epoca
+,powerboating,,Motonautica,
+BY001,powerboating,Boats historic race,Motonautica,Barche storiche da corsa
+BY002,powerboating,Powerboating: Circuit,Motonautica,Motonautica: Circuito
+BY003,powerboating,Powerboating: Pleasure,Motonautica,Motonautica: Diporto
+BY004,powerboating,Powerboating: Endurance,Motonautica,Motonautica: Endurance
+BY005,powerboating,powerboating RadioControlled,Motonautica,Motonautica Radiocomandata
+BY006,powerboating,Water Skiing: Hydrofly,Motonautica,Moto d'acqua: Hydrofly
+BY007,powerboating,Powerboating: Offshore,Motonautica,Motonautica: Offshore
+BY008,powerboating,Powerboating: Youth and preparatory,Motonautica,Motonautica: Giovanile e propedeutica
+BZ001,Muay Thai,,Muay Thai,
+CA001,Netball,,Netball,
+,Orientation,,Orientamento,
+CB001,Orientation,orienteering,Orientamento,Corsa orientamento
+CB002,Orientation,Mountain Bike Orientation,Orientamento,Mountain Bike orientamento
+CB003,Orientation,Precision Guidance,Orientamento,Orientamento di precisione
+CB004,Orientation,Skiing orientation,Orientamento,Sci orientamento
+,Tambourine Ball,,Palla Tamburello,
+CC001,Tambourine Ball,Tambourine Ball: Indoor,Palla Tamburello,Palla Tamburello: Indoor
+CC002,Tambourine Ball,Tambourine Ball: Wall,Palla Tamburello,Palla Tamburello: Muro
+CC003,Tambourine Ball,Tambourine Ball: Outdoor,Palla Tamburello,Palla Tamburello: Outdoor
+CC004,Tambourine Ball,Tambourine Ball: Tambeach,Palla Tamburello,Palla Tamburello: Tambeach
+CD001,Basketball,Basketball: Basketball Beach,Pallacanestro,Pallacanestro: Beach Basket
+CD002,Basketball,,Pallacanestro,
+CD003,Basketball,Basketball 3 on 3,Pallacanestro,Pallacanestro 3 contro 3
+CE001,Handball,Handball: Beach Handball,Pallamano,Pallamano: Beach Handball
+CE002,Handball,,Pallamano,
+CF001,pallapugno,Handball: Fronton - One Wall,Pallapugno,Pallapugno: Fronton - One Wall
+CF003,pallapugno,Handball: llargues,Pallapugno,Pallapugno: Llargues
+CF004,pallapugno,Handball: Palla Eh!,Pallapugno,Pallapugno: Palla Eh!
+CF005,pallapugno,Handball: Palla Elastica,Pallapugno,Pallapugno: Palla Elastica
+CF006,pallapugno,,Pallapugno,
+CF007,pallapugno,light pallapugno,Pallapugno,Pallapugno leggera
+CF008,pallapugno,Balloon with Bracelet,Pallapugno,Pallone col Bracciale
+CF009,pallapugno,Handball: Pantalera,Pallapugno,Pallapugno: Pantalera
+CG001,Volleyball,Beach volley,Pallavolo,Beach volley
+CG002,Volleyball,,Pallavolo,
+CG003,Volleyball,sitting volleyball,Pallavolo,Sitting volley
+CH001,Basque Pelota,,Pelota Basca,
+,Modern Pentathlon,,Pentathlon Moderno,
+CI001,Modern Pentathlon,"Modern Pentathlon: biathle (running, swimming)",Pentathlon Moderno,"Pentathlon Moderno: Biathle (corsa, nuoto)"
+CI003,Modern Pentathlon,Combined Modern Pentathlon (shooting and continuous stroke),Pentathlon Moderno,Pentathlon Moderno Combinato (tiro e corsa continuativo)
+CI004,Modern Pentathlon,"Modern Pentathlon (fencing, swimming, horse riding, combined)",Pentathlon Moderno,"Pentathlon Moderno (scherma, nuoto, equitazione, combinato)"
+CI005,Modern Pentathlon,"Modern tetrathlon (fencing, swimming, combined)",Pentathlon Moderno,"Tetrathlon moderno (scherma, nuoto, combined)"
+CI006,Modern Pentathlon,"Triathle (shooting, running, swimming)",Pentathlon Moderno,"Triathle (tiro, corsa, nuoto)"
+CI007,Modern Pentathlon,"modern triathlon (running, swimming, shooting)",Pentathlon Moderno,"Triathlon moderno (corsa, nuoto, tiro)"
+CJ014,Sport fishing,,Pesca Sportiva,
+,Weightlifting,,Pesistica,
+CK003,Weightlifting,Weightlifting: Bench Press,Pesistica,Pesistica: Distensione su panca
+CK005,Weightlifting,Weightlifting Paralympic,Pesistica,Pesistica paralimpica
+CK007,Weightlifting,Olympic Weightlifting,Pesistica,Pesistica Olimpica
+CL001,Powerlifting,,Powerlifting,
+,Boxing,,Pugilato,
+CM002,Boxing,Boxing AOB / APB,Pugilato,Pugilato AOB/APB
+CM003,Boxing,Boxing PRO,Pugilato,Pugilato PRO
+CM004,Boxing,Amateur Boxing,Pugilato,Pugilato Amatoriale
+CM004,Boxing,Amateur Boxing: Prepugilistica,Pugilato,Pugilato Amatoriale: Prepugilistica
+CM004,Boxing,Amateur Boxing: Boxing Competition,Pugilato,Pugilato Amatoriale: Boxe Competition
+CM004,Boxing,Amateur Boxing: Boxing Action,Pugilato,Pugilato Amatoriale: Boxe in Action
+CM004,Boxing,Amateur Boxing: Light Boxing,Pugilato,Pugilato Amatoriale: Light Boxe
+CM004,Boxing,Amateur Boxing: Soft Boxing,Pugilato,Pugilato Amatoriale: Soft Boxe
+CM005,Boxing,Youth Boxing,Pugilato,Pugilato Giovanile
+CN001,Racquetball,,Racquetball,
+CO001,Rafting,Hydrospeed,Rafting,Hydrospeed
+CO002,Rafting,,Rafting,
+,Rugby,,Rugby,
+CP001,Rugby,Rugby 15,Rugby,Rugby a 15
+CP002,Rugby,Rugby 7,Rugby,Rugby a 7
+CP003,Rugby,Touch Rugby,Rugby,Touch Rugby
+CP004,Rugby,Tag Rugby,Rugby,Tag Rugby
+CP005,Rugby,Beach Rugby,Rugby,Beach Rugby
+CP006,Rugby,Snow Rugby,Rugby,Snow Rugby
+CQ001,Sambo,,Sambo,
+,Savate,,Savate,
+CR001,Savate,Savate assault,Savate,Savate assalto
+CR002,Savate,Savate combat,Savate,Savate combat
+CS001,Chess,,Scacchi,
+CT001,Fencing,,Scherma,
+CT002,Fencing,Paralympic Fencing,Scherma,Scherma paralimpica
+CT003,Fencing,historical Fencing,Scherma,Scherma storica
+,skiing,,Sci,
+CU001,skiing,Skiing: Nordic Combined,Sci,Sci: Combinata nordica
+CU002,skiing,Skiing: Freestyle,Sci,Sci: Freestyle
+CU003,skiing,Ski jumping,Sci,Salto con gli sci
+CU004,skiing,Ski tours,Sci,Sci alpinismo
+CU005,skiing,Alpine skiing,Sci,Sci alpino
+CU006,skiing,Grass skiing,Sci,Sci d'erba
+CU007,skiing,Speed ​​Skiing,Sci,Sci di velocità
+CU008,skiing,Cross country skiing,Sci,Sci di fondo
+,skiing,Snowboard,Sci,Snowboard
+CU010,skiing,Summer skiing down,Sci,Sci fondo estivo
+CU011,skiing,Skiing carving,Sci,Sci carving
+CU012,skiing,Telemark,Sci,Telemark
+,Waterski Wakeboard,,Sci nautico Wakeboard,
+CV001,Waterski Wakeboard,Water skiing: Barefoot (Bare Feet),Sci nautico Wakeboard,Sci nautico: Barefoot (Piedi nudi)
+CV002,Waterski Wakeboard,Water skiing: Cable Ski,Sci nautico Wakeboard,Sci nautico: Cable Ski
+CV003,Waterski Wakeboard,Water skiing: Disabled (Disabled),Sci nautico Wakeboard,Sci nautico: Disabled (Disabili)
+CV004,Waterski Wakeboard,Waterski Racing (Speed),Sci nautico Wakeboard,Sci nautico Racing (Velocità)
+CV005,Waterski Wakeboard,Tournament (Humanities),Sci nautico Wakeboard,Tournament (Discipline classiche)
+CV006,Waterski Wakeboard,Wakeboard Boat (Wakeboard),Sci nautico Wakeboard,Wakeboard Boat (Wakeboard)
+CV007,Waterski Wakeboard,Wakeboard Cable,Sci nautico Wakeboard,Wakeboard Cable
+CW001,Sepaktakraw,,Sepaktakraw,
+CX001,Shoot Boxing,,Shoot Boxe,
+CY001,Skeleton,,Skeleton,
+CZ001,Dog Sledding,,Sleddog,
+,Tobogganing,,Slittino,
+DA001,Tobogganing,Tobogganing artificial track,Slittino,Slittino pista artificiale
+DA002,Tobogganing,Luge Natural Track,Slittino,Slittino pista naturale
+DB001,Soft Tennis,,Soft Tennis,
+DC001,Sport Wheelchairs,Inlinehockey,Sport a Rotelle,Hockey inline
+DC002,Sport Wheelchairs,Hockey rink,Sport a Rotelle,Hockey pista
+DC003,Sport Wheelchairs,Alpine Inline,Sport a Rotelle,Inline alpine
+,Sport Wheelchairs,,Sport a Rotelle,
+,Sport Wheelchairs,Skating,Sport a Rotelle,Pattinaggio
+DC004,Sport Wheelchairs,aggressive skating,Sport a Rotelle,Pattinaggio aggressive
+DC005,Sport Wheelchairs,Figure skating,Sport a Rotelle,Pattinaggio artistico
+DC006,Sport Wheelchairs,Figure skating race,Sport a Rotelle,Pattinaggio corsa
+DC007,Sport Wheelchairs,downhill skating,Sport a Rotelle,Pattinaggio downhill
+DC008,Sport Wheelchairs,freestyle skating,Sport a Rotelle,Pattinaggio freestyle
+DC009,Sport Wheelchairs,Roller Derby,Sport a Rotelle,Roller Derby
+DC010,Sport Wheelchairs,Skateboard,Sport a Rotelle,Skateboard
+,Watersports,,Sport Acquatici,
+DD002,Watersports,Open water swimming (Fund),Sport Acquatici,Nuoto in acque libere (Fondo)
+DD003,Watersports,I swim,Sport Acquatici,Nuoto
+DD004,Watersports,Swimming for rescue,Sport Acquatici,Nuoto per salvamento
+DD005,Watersports,Water polo,Sport Acquatici,Pallanuoto
+DD006,Watersports,Synchronized swimming,Sport Acquatici,Nuoto Sincronizzato
+DD007,Watersports,Dips,Sport Acquatici,Tuffi
+,Air Sports,,Sport dell'Aria,
+DE001,Air Sports,Model Aircraft,Sport dell'Aria,Aeromodellismo
+DE003,Air Sports,free or airship balloon,Sport dell'Aria,Pallone libero o dirigibile
+DE004,Air Sports,Parachuting,Sport dell'Aria,Paracadutismo
+DE005,Air Sports,Flight not acrobatic sailing,Sport dell'Aria,Volo a vela non acrobatico
+DE006,Air Sports,Flight not stunt motor,Sport dell'Aria,Volo a motore non acrobatico
+DE007,Air Sports,Flying engine aerobatic and sailing,Sport dell'Aria,Volo acrobatico a motore e a vela
+DE008,Air Sports,Flight with rotorcraft,Sport dell'Aria,Volo con aeromobili ad ala rotante
+DE009,Air Sports,Flight pleasure or sports with motor or motor para,Sport dell'Aria,Volo da diporto o sportivo con motore o con para motore
+DE010,Air Sports,"Flight pleasure or sports without engine (hang-gliding, paragliding)",Sport dell'Aria,"Volo da diporto o sportivo senza motore (deltaplano, parapendio)"
+,Equestrian Sports,,Sport Equestri,
+DF001,Equestrian Sports,Equestrian Sports: Attacks,Sport Equestri,Sport Equestri: Attacchi
+DF002,Equestrian Sports,equestrian tradition and festivals Activities,Sport Equestri,Attività equestri di tradizione e rassegne
+DF004,Equestrian Sports,Sports Equestrian: Eventing,Sport Equestri,Sport Equestri: Concorso Completo
+DF005,Equestrian Sports,Sports Equestrian: Dressage,Sport Equestri,Sport Equestri: Dressage
+DF006,Equestrian Sports,Equestrian Sports: Endurance,Sport Equestri,Sport Equestri: Endurance
+,Equestrian Sports,Horse riding,Sport Equestri,Equitazione
+DF007,Equestrian Sports,Riding Campaign,Sport Equestri,Equitazione di campagna
+DF008,Equestrian Sports,Riding Paralympic,Sport Equestri,Equitazione Paralimpica
+DF009,Equestrian Sports,Equestrian Sport: Horse ball,Sport Equestri,Sport Equestri: Horse ball
+DF011,Equestrian Sports,Equestrian Sports:,Sport Equestri,Sport Equestri: Polo
+DF012,Equestrian Sports,Equestrian Sports: Reining,Sport Equestri,Sport Equestri: Reining
+DF013,Equestrian Sports,Equestrian Rehabilitation,Sport Equestri,Riabilitazione equestre
+DF014,Equestrian Sports,Equestrian Sport: Show Jumping,Sport Equestri,Sport Equestri: Salto Ostacoli
+DF016,Equestrian Sports,Equestrian Sports: Vaulting,Sport Equestri,Sport Equestri: Volteggio
+,Sports on Ice,,Sport su Ghiaccio,
+DG001,Sports on Ice,Curling,Sport su Ghiaccio,Curling
+DG002,Sports on Ice,Ice Hockey,Sport su Ghiaccio,Hockey su ghiaccio
+DG003,Sports on Ice,Para Ice Hockey,Sport su Ghiaccio,Para Ice Hockey
+DG004,Sports on Ice,Figure Figure Skating,Sport su Ghiaccio,Pattinaggio di Figura Artistico
+DG005,Sports on Ice,Speed ​​Skating Rink Long,Sport su Ghiaccio,Pattinaggio Velocità Pista Lunga
+DG006,Sports on Ice,Speed ​​Skating Short Track,Sport su Ghiaccio,Pattinaggio Velocità Short Track
+DG007,Sports on Ice,Stock sports,Sport su Ghiaccio,Stock sport
+DG008,Sports on Ice,wheelchair curling,Sport su Ghiaccio,Wheelchair curling
+DG009,Sports on Ice,Figure Skating Dance,Sport su Ghiaccio,Pattinaggio di Figura Danza
+DG010,Sports on Ice,Synchronized Figure Skating,Sport su Ghiaccio,Pattinaggio di Figura Sincronizzato
+DH001,Squash,,Squash,
+DI001,Sumo,,Sumo,
+DJ001,surf,,Surf,
+DK001,Taekwondo,,Taekwondo,
+DL001,Tennis,Beach tennis,Tennis,Beach tennis
+DL002,Tennis,Paddle,Tennis,Paddle
+DL003,Tennis,,Tennis,
+DL004,Tennis,wheelchair tennis,Tennis,Wheelchair tennis
+DM001,Table tennis,,Tennis Tavolo,
+DM002,Table tennis,Paralympic Table Tennis,Tennis Tavolo,Tennis Tavolo paralimpico
+DN001,Shooting,Shooting: avancarica,Tiro a Segno,Tiro a Segno: avancarica
+DN002,Shooting,Tiro a Segno: Bench Rest,Tiro a Segno,Tiro a Segno: Bench rest
+DN003,Shooting,Shooting: ex ordinance,Tiro a Segno,Tiro a Segno: ex ordinanza
+DN004,Shooting,Shooting: Para,Tiro a Segno,Tiro a Segno: Para
+DN005,Shooting,,Tiro a Segno,
+DN006,Shooting,Shooting: quick sport shooting,Tiro a Segno,Tiro a Segno: tiro rapido sportivo
+DN007,Shooting,Shooting: target sprint,Tiro a Segno,Tiro a Segno: target sprint
+,Skeet shooting,,Tiro a Volo,
+DO002,Skeet shooting,Target Shooting: Hunt flutter,Tiro a Volo,Tiro a Volo: Caccia al frullo
+DO003,Skeet shooting,Target Shooting: Double trap,Tiro a Volo,Tiro a Volo: Double trap
+DO004,Skeet shooting,Target Shooting: Electrocibles or propeller,Tiro a Volo,Tiro a Volo: Electrocibles o elica
+DO005,Skeet shooting,Target Shooting: Fintello,Tiro a Volo,Tiro a Volo: Fintello
+DO006,Skeet shooting,Target Shooting: automatic cleansing,Tiro a Volo,Tiro a Volo: Fossa automatica
+DO007,Skeet shooting,Target Shooting: Universal Trench,Tiro a Volo,Tiro a Volo: Fossa universale
+DO009,Skeet shooting,Target Shooting: Hunting Path,Tiro a Volo,Tiro a Volo: Percorso di caccia
+DO010,Skeet shooting,Target Shooting: Skeet,Tiro a Volo,Tiro a Volo: Skeet
+DO011,Skeet shooting,hunting combined shooting,Tiro a Volo,Tiro combinato da caccia
+DO013,Skeet shooting,Target Shooting: Trap (Olympic trap),Tiro a Volo,Tiro a Volo: Trap (fossa olimpica)
+DP001,Tug of war,,Tiro alla Fune,
+,Archery,,Tiro con l'Arco,
+DQ001,Archery,Archery: 3D,Tiro con l'Arco,Tiro con l'Arco: 3D
+DQ002,Archery,Archery: Flight and Clout,Tiro con l'Arco,Tiro con l'Arco: Flight e Clout
+DQ003,Archery,Archery: Ski archery,Tiro con l'Arco,Tiro con l'Arco: Ski archery
+DQ004,Archery,Tug plate,Tiro con l'Arco,Tiro alla targa
+DQ005,Archery,Paralympic Archery bow,Tiro con l'Arco,Tiro con l'arco paralimpico
+DQ006,Archery,Rifle shooting,Tiro con l'Arco,Tiro di campagna
+,Practical Shooting,,Tiro Dinamico Sportivo,
+DR001,Practical Shooting,Practical Shooting: Air Soft Weapon,Tiro Dinamico Sportivo,Tiro Dinamico Sportivo: Arma Air Soft
+DR002,Practical Shooting,Practical Shooting: Arma Corta,Tiro Dinamico Sportivo,Tiro Dinamico Sportivo: Arma Corta
+DR003,Practical Shooting,Practical Shooting: Long Weapon,Tiro Dinamico Sportivo,Tiro Dinamico Sportivo: Arma Lunga
+DS001,Triathlon,"Aquathlon (running, swimming race)",Triathlon,"Aquathlon (corsa, nuoto corsa)"
+DS002,Triathlon,Cross triathlon,Triathlon,Cross triathlon
+DS003,Triathlon,"Duathlon (running, cycling, running)",Triathlon,"Duathlon (corsa, ciclismo, corsa)"
+DS004,Triathlon,Paratriathlon,Triathlon,Paratriathlon
+DS005,Triathlon,,Triathlon,
+DS006,Triathlon,"winter triathlon (running, cycling, cross country skiing)",Triathlon,"Triathlon invernale (corsa, ciclismo, sci di fondo)"
+,Equestrian Tourism-Trec Ante,,Turismo Equestre-Trec Ante,
+DT001,Equestrian Tourism-Trec Ante,Equestrian Tourism-Trec Ante: cross country and Country derby,Turismo Equestre-Trec Ante,Turismo Equestre-Trec Ante: cross country e Country derby
+DT002,Equestrian Tourism-Trec Ante,Equestrian Tourism-Trec Ante: Mount Work,Turismo Equestre-Trec Ante,Turismo Equestre-Trec Ante: Monta da Lavoro
+DT002,Equestrian Tourism-Trec Ante,Mount Work: Traditional,Turismo Equestre-Trec Ante,Monta da Lavoro: Tradizionale
+DT002,Equestrian Tourism-Trec Ante,Mount Work: Gymkhana,Turismo Equestre-Trec Ante,Monta da Lavoro: Gimkana
+DT002,Equestrian Tourism-Trec Ante,Mount Work: Synchro,Turismo Equestre-Trec Ante,Monta da Lavoro: Sincronizzata
+DT002,Equestrian Tourism-Trec Ante,Mount Work: Maremma,Turismo Equestre-Trec Ante,Monta da Lavoro: Maremmana
+DT002,Equestrian Tourism-Trec Ante,Mount Work: Doma Vaquera,Turismo Equestre-Trec Ante,Monta da Lavoro: Doma Vaquera
+DT003,Equestrian Tourism-Trec Ante,Equestrian Tourism and Equestrian Tourism Attacks,Turismo Equestre-Trec Ante,Turismo Equestre e Turismo Equestre Attacchi
+DT004,Equestrian Tourism-Trec Ante,Monta Historical,Turismo Equestre-Trec Ante,Monta Storica
+DT005,Equestrian Tourism-Trec Ante,Western Riding,Turismo Equestre-Trec Ante,Monta Western
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Barrel,Turismo Equestre-Trec Ante,Monta Western: Barrel
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Racing,Turismo Equestre-Trec Ante,Monta Western: Racing
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Pole Pending,Turismo Equestre-Trec Ante,Monta Western: Pole Pending
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Team Penning,Turismo Equestre-Trec Ante,Monta Western: Team Penning
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Western Gymkhana,Turismo Equestre-Trec Ante,Monta Western: Gimkana Western
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Performance,Turismo Equestre-Trec Ante,Monta Western: Performance
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Cutting,Turismo Equestre-Trec Ante,Monta Western: Cutting
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Working Cow Horse,Turismo Equestre-Trec Ante,Monta Western: Working Cow Horse
+DT005,Equestrian Tourism-Trec Ante,Western Riding: Roping,Turismo Equestre-Trec Ante,Monta Western: Roping
+DT006,Equestrian Tourism-Trec Ante,Trec and Trec Attacks,Turismo Equestre-Trec Ante,Trec e Trec Attacchi
+DT007,Equestrian Tourism-Trec Ante,Mountain Trail,Turismo Equestre-Trec Ante,Mountain Trail
+DU001,Twirling,,Twirling,
+,Sailing,,Vela,
+DV001,Sailing,Sailing: Multihulls,Vela,Vela: Multiscafi
+DV005,Sailing,Kiteboarding,Vela,Kiteboarding
+DV015,Sailing,Tables Sailing,Vela,Tavole a Vela
+DV016,Sailing,Derive,Vela,Derive
+DV017,Sailing,Boats Keelboat,Vela,Barche a chiglia
+DV018,Sailing,Sailing: Monotipi,Vela,Vela: Monotipi
+DV019,Sailing,Vintage Sails,Vela,Vele d'Epoca
+DV020,Sailing,Sailboat radiocomandate,Vela,Imbarcazioni a vela radiocomandate
+,Sailing,Windsurfing,Vela,Windsurfing
+,Wushu Kung Fu Moderno,,Wushu Kung Fu Moderno,
+DW001,Wushu Kung Fu Moderno,Kali Filipino,Wushu Kung Fu Moderno,Kali Filippino
+DW002,Wushu Kung Fu Moderno,Kung Fu Vietnamese,Wushu Kung Fu Moderno,Kung Fu Vietnamita
+DW003,Wushu Kung Fu Moderno,Pencak Silat,Wushu Kung Fu Moderno,Pencak Silat
+DW004,Wushu Kung Fu Moderno,Taolu,Wushu Kung Fu Moderno,Taolu
+DW004,Wushu Kung Fu Moderno,Sanshou,Wushu Kung Fu Moderno,Sanshou
+,Traditional Wushu Kung Fu,,Wushu Kung Fu Tradizionale,
+DX001,Traditional Wushu Kung Fu,Taijiquan,Wushu Kung Fu Tradizionale,Taijiquan
+DX001,Traditional Wushu Kung Fu,Tuei Shou,Wushu Kung Fu Tradizionale,Tuei Shou
+DX001,Traditional Wushu Kung Fu,Baguazhang,Wushu Kung Fu Tradizionale,Baguazhang
+DX001,Traditional Wushu Kung Fu,Wing Chun,Wushu Kung Fu Tradizionale,Wing Chun
+DX001,Traditional Wushu Kung Fu,Shaolin,Wushu Kung Fu Tradizionale,Shaolin
+DX001,Traditional Wushu Kung Fu,Jeet Kune Do,Wushu Kung Fu Tradizionale,Jeet Kune Do
+DX001,Traditional Wushu Kung Fu,Qi Gong,Wushu Kung Fu Tradizionale,Qi Gong
+DX001,Traditional Wushu Kung Fu,Shuai Jiao,Wushu Kung Fu Tradizionale,Shuai Jiao

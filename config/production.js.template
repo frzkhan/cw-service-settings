@@ -1,0 +1,14 @@
+module.exports = {
+  fastify: { active: true, port: 0, size: 1024 * 1024 * 5 },
+  redis: { active: true },
+  mongodb: {
+    active: true,
+    databases: [
+      {
+        name: 'data',
+        db: 'settings',
+        options: {}
+      }
+    ]
+  }
+}
